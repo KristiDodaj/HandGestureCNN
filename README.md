@@ -1,4 +1,4 @@
-# Hand Gesture Recognition Using CNN
+# Hand Gesture Recognition Using CNN 📈
 
 ## Introduction
 
