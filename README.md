@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository hosts a deep learning project focused on recognizing hand gestures representing numbers 0-9 in sign language. The project utilizes a Convolutional Neural Network (CNN) to accurately identify hand gestures from a dataset of 15,000 labeled images.
+This repository hosts a deep learning project focused on recognizing hand gestures representing numbers 0-9 in sign language. The project utilizes a Convolutional Neural Network (CNN) to identify hand gestures from a dataset of 15,000 labeled images with a 88% accuracy.
 
 ## Project Structure
 
