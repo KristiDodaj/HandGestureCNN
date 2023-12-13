@@ -12,6 +12,11 @@ This repository hosts a deep learning project focused on recognizing hand gestur
 - `UI.py`: A user interface script to interact with the trained model and make predictions.
 - `requirements.txt`: Lists all the Python dependencies required for the project.
 
+## DEMO
+
+[![Watch the video]]([link-to-the-video](https://youtu.be/VMl_PB9zH60))
+
+
 ## Dataset
 
 The dataset comprises 15,000 labeled images representing numbers 0-9 in sign language. Each image in the dataset is pre-processed and labeled with the corresponding number it represents.
