@@ -48,6 +48,6 @@ To use the trained model for predicting hand gestures:
 Clone this repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/hand-gesture-recognition.git
-cd hand-gesture-recognition
+git clone [https://github.com/your-username/hand-gesture-recognition.git](https://github.com/KristiDodaj/HandGestureCNN.git)
+cd HandGestureCNN
 pip install -r requirements.txt
