@@ -20,6 +20,8 @@ This repository hosts a deep learning project focused on recognizing hand gestur
 
 The dataset comprises 15,000 labeled images representing numbers 0-9 in sign language. Each image in the dataset is pre-processed and labeled with the corresponding number it represents.
 
+Dataset Link: https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-numbers
+
 ## CNN Architecture
 
 The CNN model, defined in `HandGestureCNN.py`, is structured as follows:
@@ -28,7 +30,7 @@ The CNN model, defined in `HandGestureCNN.py`, is structured as follows:
 - **Pooling Layers**: These layers reduce the spatial dimensions (width and height) of the input volume for the layers that follow.
 - **Fully Connected Layers**: Dense layers that interpret the features extracted by the convolutional and pooling layers to perform classification.
 - **Dropout**: Used to prevent overfitting by randomly setting a fraction of input units to 0 at each update during training.
-- **Activation Functions**: ReLU (Rectified Linear Unit) used for adding non-linearity to the model, enabling it to learn more complex patterns.
+- **Activation Functions**: ReLU (Rectified Linear Unit) used for adding non-linearity to the model
 
 ## Training the Model
 
