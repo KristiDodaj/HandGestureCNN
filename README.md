@@ -14,7 +14,7 @@ This repository hosts a deep learning project focused on recognizing hand gestur
 
 ## DEMO
 
-[![Alt text for your video](https://youtu.be/VMl_PB9zH60/0.jpg)](https://youtu.be/VMl_PB9zH60)
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemkwNGx2aHBtbDQ1ZHFkN2hrd2ZtdHpidjl1cXNjNGhmZDdlcWJhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FMYhV7UOmnd6OgwfNE/giphy.gif)
 
 ## Dataset
 
