@@ -17,8 +17,8 @@ transform = transforms.Compose([
 ])
 
 # Load the datasets
-train_dataset = datasets.ImageFolder(root='/Users/kristidodaj/Desktop/Number Recognition/dataset/train', transform=transform)
-test_dataset = datasets.ImageFolder(root='/Users/kristidodaj/Desktop/Number Recognition/dataset/test', transform=transform)
+train_dataset = datasets.ImageFolder(root='train dataset path', transform=transform)
+test_dataset = datasets.ImageFolder(root='test dataset path', transform=transform)
 
 
 # Create the dataloaders
